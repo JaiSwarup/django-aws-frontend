@@ -1,0 +1,3 @@
+[submodule "django-assignment"]
+	path = django-assignment
+	url = https://github.com/JaiSwarup/django-chat.git
